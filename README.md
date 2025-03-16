@@ -1,6 +1,6 @@
 # RAG Chatbot with LangChain and Ollama's Gemma3 Models
 
-This project implements a Retrieval-Augmented Generation (RAG) chatbot that processes PDF documents and answers user queries based on their content. It leverages **LangChain** for document processing and retrieval, **FAISS** for vector storage, and **Ollama's Gemma3 models** for language understanding and response generation. The user interface is built using **Streamlit**.
+Implements a Retrieval-Augmented Generation (RAG) chatbot that processes PDF documents and answers user queries based on their content. It leverages **LangChain** for document processing and retrieval, **FAISS** for vector storage, and **Ollama's Gemma3 models** for language understanding and response generation. The user interface is built using **Streamlit**.
 
 ## Features
 
