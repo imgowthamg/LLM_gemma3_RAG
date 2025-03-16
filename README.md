@@ -24,7 +24,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that proc
    git clone https://github.com/imgowthamg/LLM_gemma3_RAG.git
    cd LLM_gemma3_RAG
 2. Python venv step
-   '''bash
+    ```bash
   python3 -m venv venv  # Create virtual environment
   source venv/bin/activate  # Activate it (Windows: venv\Scripts\activate)
   pip install -r requirements.txt  # Magic dependencies installer
