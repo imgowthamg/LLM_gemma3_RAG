@@ -49,10 +49,10 @@ Implements a Retrieval-Augmented Generation (RAG) chatbot that processes PDF doc
 
 ```
 LLM_gemma3_RAG/
-├── app.py          # Brain of the operation (UI)
+├── app.py          # UI
 ├── config.py       # Configuration settings
 ├── llm.py          # AI model integration
-├── processing.py   # PDF processing logic
+├── processing.py   # PDF processing 
 ├── retrieval.py    # FAISS-based document retrieval
 ```
 
@@ -70,7 +70,5 @@ LLM_gemma3_RAG/
 - [Ollama](https://ollama.ai/) for hosting powerful Gemma3 models.
 - [Streamlit](https://streamlit.io/) for the interactive UI.
 
-## Contributions
 
-Contributions are welcome! Feel free to submit issues and pull requests to enhance this project.
 
